@@ -14,7 +14,7 @@ a{
     color: black;
     background-color: #34F7B8;
     font-size: 22px;
-    padding-right: 0.05%;
+    padding-right:7%
     
 }
 p{
@@ -24,4 +24,7 @@ p{
 }
 .caja{
     width: fit-content;
+    position:relative;
+    top:;
+    bottom:;
 }
